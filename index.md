@@ -1,4 +1,4 @@
-# Comparison of Phase Audio Processing Methods for Variational Autoencoders
+# Pink trombone audios
 
 #### Authors: Mateo Cámara, Zhiyuan Xu, Yisu Zong, and David Südholt.
 
@@ -232,7 +232,7 @@ Predicted audio after optimization with 20 ms window without Savinzky-Galoy filt
     <source src="audio/predicted_yawn_notprocessed.wav">
 </audio>
 
-Predicted audio after optimization with 20 ms window without Savinzky-Galoy filter:
+Predicted audio after optimization with 20 ms window with Savinzky-Galoy filter:
 
 <audio controls=""> 
     <source src="audio/predicted_yawn.wav">
