@@ -214,25 +214,25 @@ Reference audio: a man yawning:
     <source src="audio/real_yawning_chunk.wav">
 </audio>
 
-Predicted audio after optimization at once (no windowing) without Savinzky-Galoy filter:
+Predicted audio after optimization at once (no windowing):
 
 <audio controls=""> 
     <source src="audio/predicted_yawn_atonce.wav">
 </audio>
 
-Predicted audio after optimization with 100 ms window without Savinzky-Galoy filter:
+Predicted audio after optimization with 100 ms window:
 
 <audio controls=""> 
     <source src="audio/0.wav">
 </audio>
 
-Predicted audio after optimization with 20 ms window without Savinzky-Galoy filter:
+Predicted audio after optimization with 20 ms window:
 
 <audio controls=""> 
     <source src="audio/predicted_yawn_notprocessed.wav">
 </audio>
 
-Predicted audio after optimization with 20 ms window with Savinzky-Galoy filter:
+Predicted audio after optimization with 20 ms window with Savitzky-Golay filter:
 
 <audio controls=""> 
     <source src="audio/predicted_yawn.wav">
